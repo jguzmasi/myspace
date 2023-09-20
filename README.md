@@ -8,15 +8,17 @@ Bienvenido a nuestra página de inicio. Aquí encontrarás información sobre nu
 
 ![Imagen de muestra](imagen.jpg)
 
-## Barra Lateral
-- [Página 1](#)
-- [Página 2](#)
-- [Página 3](#)
-- [Página 4](#)
-- [Página 5](#)
+<aside style="position: fixed; left: 0; top: 0; width: 200px; height: 100%; background-color: #f0f0f0; padding: 20px;">
+  ## Barra Lateral
+  - [Página 1](#)
+  - [Página 2](#)
+  - [Página 3](#)
+  - [Página 4](#)
+  - [Página 5](#)
 
-### Buscador
-Puedes utilizar el buscador de la barra lateral para encontrar la página que deseas.
+  ### Buscador
+  Puedes utilizar el buscador de la barra lateral para encontrar la página que deseas.
+</aside>
 
 ## Pie de Página
 **Contacto:**
