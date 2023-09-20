@@ -1,11 +1,7 @@
 # Página de Inicio
 
 ## Navegación
-- [Inicio](#)
-- [Acerca de](#)
-- [Servicios](#)
-- [Galería](#)
-- [Contacto](#)
+[Inicio](#) | [Acerca de](#) | [Servicios](#) | [Galería](#) | [Contacto](#)
 
 ## Descripción
 Bienvenido a nuestra página de inicio. Aquí encontrarás información sobre nuestros productos y servicios. Puedes adjuntar imágenes y explorar nuestras diferentes secciones.
